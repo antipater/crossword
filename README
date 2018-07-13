@@ -1,1 +1,5 @@
-I built this crossword puzzle to provide an enhanced, more intuitive user experience with javascript.
+This project cannibalizes code from http://www.jesseweisbeck.com/crossword/
+to produce an acrostic interface.
+
+The project is released under the GPL-2 license, as with the original
+project http://www.jesseweisbeck.com/crossword/ .
